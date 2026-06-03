@@ -1,0 +1,98 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Rahul Sharma",
+    "age": 28,
+    "department": "Engineering",
+    "designation": "Software Engineer",
+    "salary": 75000,
+    "email": "rahul.sharma@example.com",
+    "city": "Mumbai",
+    "skills": ["Python", "SQL", "Git"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Priya Singh",
+    "age": 32,
+    "department": "Marketing",
+    "designation": "Marketing Manager",
+    "salary": 85000,
+    "email": "priya.singh@example.com",
+    "city": "Delhi",
+    "skills": ["SEO", "Content Marketing", "Analytics"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Amit Verma",
+    "age": 25,
+    "department": "Engineering",
+    "designation": "Frontend Developer",
+    "salary": 68000,
+    "email": "amit.verma@example.com",
+    "city": "Bangalore",
+    "skills": ["JavaScript", "React", "CSS"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP004",
+    "name": "Sneha Gupta",
+    "age": 30,
+    "department": "HR",
+    "designation": "HR Executive",
+    "salary": 55000,
+    "email": "sneha.gupta@example.com",
+    "city": "Pune",
+    "skills": ["Recruitment", "Communication"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP005",
+    "name": "Karan Mehta",
+    "age": 35,
+    "department": "Finance",
+    "designation": "Financial Analyst",
+    "salary": 92000,
+    "email": "karan.mehta@example.com",
+    "city": "Chennai",
+    "skills": ["Excel", "Power BI", "Accounting"],
+    "is_active": false
+  },
+  {
+    "employee_id": "EMP006",
+    "name": "Neha Kapoor",
+    "age": 27,
+    "department": "Engineering",
+    "designation": "Backend Developer",
+    "salary": 80000,
+    "email": "neha.kapoor@example.com",
+    "city": "Hyderabad",
+    "skills": ["Java", "Spring Boot", "MongoDB"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP007",
+    "name": "Vikas Yadav",
+    "age": 29,
+    "department": "Sales",
+    "designation": "Sales Executive",
+    "salary": 60000,
+    "email": "vikas.yadav@example.com",
+    "city": "Lucknow",
+    "skills": ["Negotiation", "CRM"],
+    "is_active": true
+  },
+  {
+    "employee_id": "EMP008",
+    "name": "Anjali Roy",
+    "age": 31,
+    "department": "Engineering",
+    "designation": "Data Analyst",
+    "salary": 78000,
+    "email": "anjali.roy@example.com",
+    "city": "Kolkata",
+    "skills": ["Python", "Pandas", "Tableau"],
+    "is_active": true
+  }
+]
